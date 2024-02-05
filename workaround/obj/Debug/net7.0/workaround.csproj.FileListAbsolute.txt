@@ -1,0 +1,15 @@
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\bin\Debug\net7.0\workaround.exe
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\bin\Debug\net7.0\workaround.deps.json
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\bin\Debug\net7.0\workaround.runtimeconfig.json
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\bin\Debug\net7.0\workaround.dll
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\bin\Debug\net7.0\workaround.pdb
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.csproj.AssemblyReference.cache
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.AssemblyInfoInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.AssemblyInfo.cs
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.csproj.CoreCompileInputs.cache
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.dll
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\refint\workaround.dll
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.pdb
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\workaround.genruntimeconfig.cache
+C:\Users\burak\OneDrive\Masaüstü\Notlarım\Engin Demirbağ\MaskeTakip\workaround\obj\Debug\net7.0\ref\workaround.dll
